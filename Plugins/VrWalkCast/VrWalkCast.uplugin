@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "VrWalkCast",
+	"Description": "Immersive Movement experience for VR environments by integrating a hybrid motion system, it allows players to initiate teleportation while visually walking towards the destination, maintaining a constant velocity. This ensures a comfortable experience for users prone to motion sickness while preserving immersion in virtual worlds.",
+	"Category": "Other",
+	"CreatedBy": "Paulo Reyes",
+	"CreatedByURL": "www.reyesportfolio.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "VrWalkCast",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
